@@ -1,4 +1,4 @@
-# Data_Analytics_For_Healthcare_Applications
+# Data Analytics For Healthcare Applications
 
 This repository presents a comprehensive suite of implementations focused on healthcare data analysis, predictive modeling, biomedical image processing, natural language processing, and genomic data mining. It encompasses both clinical and non-clinical data sources to support informed healthcare insights and decision-making.
 
